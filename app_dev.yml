@@ -1,0 +1,7 @@
+server:
+  note:
+    text: Development
+jwt:
+  key:
+    id: AXDRE
+    value: SEE$s

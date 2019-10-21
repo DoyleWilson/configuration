@@ -1,0 +1,7 @@
+server:
+  note:
+    text: Production
+jwt:
+  key:
+    id: BD##$#
+    value: VEREE$s
